@@ -1,7 +1,3 @@
-**issue-618** • **Docs**
-
-***
-
 # issue-618
 
 ## Interfaces

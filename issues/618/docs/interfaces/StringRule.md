@@ -1,7 +1,3 @@
-[**issue-618**](../README.md) • **Docs**
-
-***
-
 [issue-618](../README.md) / StringRule
 
 # Interface: StringRule

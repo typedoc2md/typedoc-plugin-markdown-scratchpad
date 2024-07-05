@@ -1,7 +1,3 @@
-[**issue-618**](../README.md) • **Docs**
-
-***
-
 [issue-618](../README.md) / Rules
 
 # Type Alias: Rules
@@ -17,4 +13,4 @@ separate rules for various keywords and use the same name "keyword".
 
 ## Defined in
 
-index.ts:25
+[index.ts:25](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/2e6bda866f1f561ec3375c3010fad34ea1281f56/issues/618/src/index.ts#L25)
