@@ -1,0 +1,6 @@
+{
+  "entryPoints": ["src/index.ts"],
+  "plugin": ["typedoc-plugin-markdown"],
+  "readme": "none",
+  "indexFormat": "htmlTable"
+}
