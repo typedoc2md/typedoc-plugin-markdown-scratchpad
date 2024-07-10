@@ -13,4 +13,4 @@ separate rules for various keywords and use the same name "keyword".
 
 ## Defined in
 
-[index.ts:25](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/2e6bda866f1f561ec3375c3010fad34ea1281f56/issues/618/src/index.ts#L25)
+[index.ts:25](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/a8a82d7d8a4b41dab7eaacb9fc44da14d8484b8b/issues/618/src/index.ts#L25)
