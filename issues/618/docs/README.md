@@ -64,3 +64,24 @@ separate rules for various keywords and use the same name "keyword".
 </td>
 </tr>
 </table>
+
+## Functions
+
+<table>
+<tr>
+<th>Function</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>
+
+[createLexer](functions/createLexer.md)
+
+</td>
+<td>
+
+Create a lexer function.
+
+</td>
+</tr>
+</table>
