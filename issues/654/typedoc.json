@@ -1,0 +1,8 @@
+{
+  "$schema": "https://typedoc-plugin-markdown.org/schema.json",
+  "entryPoints": ["src"],
+  "entryPointStrategy": "expand",
+  "plugin": ["typedoc-plugin-markdown", "./parse-file-names.mjs"],
+  "readme": "none",
+  "flattenOutputFiles": true
+}
