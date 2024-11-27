@@ -6,4 +6,4 @@
 
 ## Defined in
 
-[index.ts:4](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/6bb508f24e7bc1181f9ef992ff4abdbf41e356f6/issues/715/src/index.ts#L4)
+[index.ts:4](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/34ebac04f6d0a54c37c4a26a2da8aa7e199bebf0/issues/715/src/index.ts#L4)
