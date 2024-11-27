@@ -1,0 +1,21 @@
+{
+  "entryPoints": ["src/index.ts"],
+  "plugin": ["typedoc-plugin-markdown"],
+  "readme": "none",
+  "cleanOutputDir": true,
+  "hidePageHeader": true,
+  "parametersFormat": "table",
+  "useCodeBlocks": true,
+  "disableSources": true,
+  "expandParameters": true,
+  "outputs": [
+    {
+      "name": "html",
+      "path": "./docs/html"
+    },
+    {
+      "name": "markdown",
+      "path": "./docs/md"
+    }
+  ]
+}

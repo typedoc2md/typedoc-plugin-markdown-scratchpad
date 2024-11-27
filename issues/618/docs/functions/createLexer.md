@@ -31,4 +31,4 @@ Lexer options object.
 
 ## Defined in
 
-[index.ts:39](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/37abf6f9d26fb821ff0897bfc3be9c0e3fb48352/issues/618/src/index.ts#L39)
+[index.ts:39](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/6bb508f24e7bc1181f9ef992ff4abdbf41e356f6/issues/618/src/index.ts#L39)
