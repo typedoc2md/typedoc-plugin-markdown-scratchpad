@@ -1,6 +1,9 @@
 {
   "entryPoints": ["src/index.ts"],
-  "plugin": ["typedoc-plugin-markdown", "./update-index-ext.mjs"],
+  "plugin": [
+    "typedoc-plugin-markdown",
+    "./local-plugins/update-index-page-ext.mjs"
+  ],
   "entryFileName": "index",
   "readme": "none"
 }

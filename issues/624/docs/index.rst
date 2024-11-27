@@ -1,4 +1,4 @@
-[**issue-624**](index.md) • **Docs**
+[**issue-624**](index.md)
 
 ***
 

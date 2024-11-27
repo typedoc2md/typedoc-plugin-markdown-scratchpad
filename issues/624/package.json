@@ -1,12 +1,9 @@
 {
   "name": "issue-624",
   "version": "1.0.0",
+  "private": true,
   "scripts": {
     "docs": "typedoc"
   },
-  "devDependencies": {
-    "typedoc": "0.26.4",
-    "typedoc-plugin-markdown": "^4.2.0",
-    "typescript": "^5.5.3"
-  }
+  "devDependencies": {}
 }

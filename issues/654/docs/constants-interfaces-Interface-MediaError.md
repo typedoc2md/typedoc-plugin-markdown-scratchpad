@@ -1,4 +1,4 @@
-[**issue-654**](README.md) • **Docs**
+[**issue-654**](README.md)
 
 ***
 

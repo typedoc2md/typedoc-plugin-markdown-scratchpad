@@ -3,10 +3,13 @@
 ## Interfaces
 
 <table>
+<thead>
 <tr>
 <th>Interface</th>
 <th>Description</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>
 
@@ -37,15 +40,19 @@ can be different from the name of the rule.
 
 </td>
 </tr>
+</tbody>
 </table>
 
 ## Type Aliases
 
 <table>
+<thead>
 <tr>
 <th>Type alias</th>
 <th>Description</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>
 
@@ -63,15 +70,19 @@ separate rules for various keywords and use the same name "keyword".
 
 </td>
 </tr>
+</tbody>
 </table>
 
 ## Functions
 
 <table>
+<thead>
 <tr>
 <th>Function</th>
 <th>Description</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>
 
@@ -84,4 +95,5 @@ Create a lexer function.
 
 </td>
 </tr>
+</tbody>
 </table>
