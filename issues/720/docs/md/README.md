@@ -19,4 +19,5 @@
 - [handleFoo](functions/handleFoo.md)
 - [handleFoo2](functions/handleFoo2.md)
 - [handleFooExplicit](functions/handleFooExplicit.md)
+- [handleFooInlineMulti](functions/handleFooInlineMulti.md)
 - [handleFooOnly](functions/handleFooOnly.md)
