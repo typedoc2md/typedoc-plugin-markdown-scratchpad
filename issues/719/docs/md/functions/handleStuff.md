@@ -20,4 +20,4 @@
 
 ## Defined in
 
-[index.ts:5](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/fa9f3ee7e217f1f8ff35877beda19f3316c6e9ca/issues/719/src/index.ts#L5)
+[index.ts:7](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/2eaeb4e4d0aad722d3b6fc136108fe96f36eef9a/issues/719/src/index.ts#L7)

@@ -2,6 +2,7 @@
   "entryPoints": ["src/index.ts"],
   "plugin": ["typedoc-plugin-markdown"],
   "readme": "none",
+  "hidePageHeader": true,
   "cleanOutputDir": true,
   "expandObjects": true,
   "outputs": [

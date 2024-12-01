@@ -1,7 +1,3 @@
-[**issue-720**](../README.md)
-
-***
-
 [issue-720](../README.md) / handleFooOnly
 
 # Function: handleFooOnly()
@@ -26,4 +22,4 @@
 
 ## Defined in
 
-[index.ts:6](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/fa9f3ee7e217f1f8ff35877beda19f3316c6e9ca/issues/720/src/index.ts#L6)
+[index.ts:6](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/2eaeb4e4d0aad722d3b6fc136108fe96f36eef9a/issues/720/src/index.ts#L6)

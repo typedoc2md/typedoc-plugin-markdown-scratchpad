@@ -1,7 +1,3 @@
-**issue-720**
-
-***
-
 # issue-720
 
 ## Type Aliases
