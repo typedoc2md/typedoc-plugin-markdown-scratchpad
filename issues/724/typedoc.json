@@ -1,0 +1,7 @@
+{
+  "entryPoints": ["src/index.ts"],
+  "readme": "none",
+  "hidePageHeader": true,
+  "plugin": ["typedoc-plugin-markdown", "typedoc-plugin-remark"],
+  "remarkPlugins": ["./remark-add-playground.mjs"]
+}
