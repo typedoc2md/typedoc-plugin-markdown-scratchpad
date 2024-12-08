@@ -1,0 +1,17 @@
+{
+  "entryPoints": ["src/index.ts"],
+  "plugin": ["typedoc-plugin-markdown"],
+  "readme": "none",
+  "hidePageHeader": true,
+  "cleanOutputDir": true,
+  "outputs": [
+    {
+      "name": "html",
+      "path": "./docs/html"
+    },
+    {
+      "name": "markdown",
+      "path": "./docs/md"
+    }
+  ]
+}

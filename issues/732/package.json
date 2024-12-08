@@ -1,8 +1,11 @@
 {
-  "name": "issue-724",
+  "name": "issue-732",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "docs": "typedoc"
+  },
+  "devDependencies": {
+    "zod": "^3.23.8"
   }
 }
