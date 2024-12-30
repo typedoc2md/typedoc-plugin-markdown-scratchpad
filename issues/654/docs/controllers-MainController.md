@@ -6,9 +6,7 @@
 
 # controllers/MainController
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [MediaError](controllers-MainController-Interface-MediaError.md)
 - [PlayerEventMap](controllers-MainController-Interface-PlayerEventMap.md)

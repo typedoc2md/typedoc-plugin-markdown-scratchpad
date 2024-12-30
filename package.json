@@ -10,9 +10,8 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^22.10.1",
-    "typedoc": "^0.27.2",
-    "typedoc-plugin-markdown": "^4.3.2",
-    "typedoc-plugin-remark": "^1.1.1",
+    "typedoc": "^0.27.6",
+    "typedoc-plugin-markdown": "4.4.0",
     "typescript": "^5.7.2"
   }
 }

@@ -4,13 +4,15 @@
 
 > **createLexer**(`rules`, `options`?): `void`
 
+Defined in: [index.ts:39](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/48b5b9ad70e31a4945755ce259ea933839e4cb5c/issues/618/src/index.ts#L39)
+
 Create a lexer function.
 
 ## Parameters
 
 ### rules
 
-[]
+\[\]
 
 Non-empty array of lexing rules.
 
@@ -28,7 +30,3 @@ Lexer options object.
 ## Returns
 
 `void`
-
-## Defined in
-
-[index.ts:39](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/2eaeb4e4d0aad722d3b6fc136108fe96f36eef9a/issues/618/src/index.ts#L39)

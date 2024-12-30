@@ -6,9 +6,7 @@
 
 # constants/interfaces
 
-## Index
-
-### Interfaces
+## Interfaces
 
 - [MediaError](constants-interfaces-Interface-MediaError.md)
 - [PlayerEventMap](constants-interfaces-Interface-PlayerEventMap.md)

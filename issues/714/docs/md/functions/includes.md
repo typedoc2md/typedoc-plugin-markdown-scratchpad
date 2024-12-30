@@ -41,7 +41,7 @@ console.log(
 
 ##### iterable
 
-`Iterable`\<[`Value`](includes.html#includes__typevalue), `any`, `any`\>
+`Iterable`\<`Value`\>
 
 #### Returns
 
@@ -63,7 +63,7 @@ console.log(
 
 #### iterable
 
-`Iterable`\<[`Value`](includes.html#includesvalue), `any`, `any`\>
+`Iterable`\<[`Value`](includes.html#includesvalue)\>
 
 ### Returns
 

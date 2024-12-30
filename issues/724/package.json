@@ -4,5 +4,8 @@
   "private": true,
   "scripts": {
     "docs": "typedoc"
+  },
+  "devDependencies": {
+    "typedoc-plugin-remark": "^1.2.2"
   }
 }
