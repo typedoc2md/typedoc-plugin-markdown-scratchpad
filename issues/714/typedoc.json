@@ -4,7 +4,6 @@
   "readme": "none",
   "cleanOutputDir": true,
   "hidePageHeader": true,
-
   "disableSources": true,
   "outputs": [
     {
@@ -15,5 +14,6 @@
       "name": "markdown",
       "path": "./docs/md"
     }
-  ]
+  ],
+  "gitRevision": "main"
 }

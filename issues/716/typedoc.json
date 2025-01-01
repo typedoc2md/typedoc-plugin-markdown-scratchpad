@@ -17,5 +17,6 @@
       "name": "markdown",
       "path": "./docs/md"
     }
-  ]
+  ],
+  "gitRevision": "main"
 }

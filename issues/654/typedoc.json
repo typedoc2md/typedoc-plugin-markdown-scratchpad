@@ -4,5 +4,6 @@
   "entryPointStrategy": "expand",
   "plugin": ["typedoc-plugin-markdown", "./parse-file-names.mjs"],
   "readme": "none",
-  "flattenOutputFiles": true
+  "flattenOutputFiles": true,
+  "gitRevision": "main"
 }

@@ -17,5 +17,6 @@ const config = {
       path: "./docs/md",
     },
   ],
+  gitRevision: "main",
 };
 export default config;

@@ -4,7 +4,7 @@
 
 > **Rules**: \[\]
 
-Defined in: [index.ts:25](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/48b5b9ad70e31a4945755ce259ea933839e4cb5c/issues/618/src/index.ts#L25)
+Defined in: [index.ts:25](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/main/issues/618/src/index.ts#L25)
 
 Non-empty array of rules.
 

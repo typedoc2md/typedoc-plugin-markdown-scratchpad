@@ -1,17 +1,14 @@
 {
   "entryPoints": ["src/index.ts"],
-  "plugin": ["typedoc-plugin-markdown"],
+  "plugin": ["typedoc-plugin-markdown", "typedoc-plugin-remark"],
   "readme": "none",
   "cleanOutputDir": true,
   "gitRevision": "main",
   "outputs": [
     {
-      "name": "html",
-      "path": "./docs/html"
-    },
-    {
       "name": "markdown",
       "path": "./docs/md"
     }
-  ]
+  ],
+  "remarkPlugins": ["remark-toc"]
 }

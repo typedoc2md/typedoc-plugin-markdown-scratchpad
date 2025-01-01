@@ -2,7 +2,7 @@
 
 # Interface: Foo
 
-Defined in: [issues/733/src/index.ts:34](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/48b5b9ad70e31a4945755ce259ea933839e4cb5c/issues/733/src/index.ts#L34)
+Defined in: [issues/733/src/index.ts:34](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/main/issues/733/src/index.ts#L34)
 
 ## Extends
 
@@ -14,7 +14,7 @@ Defined in: [issues/733/src/index.ts:34](https://github.com/typedoc2md/typedoc-p
 
 > `optional` **a**: `string`
 
-Defined in: [issues/733/src/index.ts:18](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/48b5b9ad70e31a4945755ce259ea933839e4cb5c/issues/733/src/index.ts#L18)
+Defined in: [issues/733/src/index.ts:18](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/main/issues/733/src/index.ts#L18)
 
 A value
 
@@ -28,7 +28,7 @@ A value
 
 > `optional` **b**: `string`
 
-Defined in: [issues/733/src/index.ts:22](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/48b5b9ad70e31a4945755ce259ea933839e4cb5c/issues/733/src/index.ts#L22)
+Defined in: [issues/733/src/index.ts:22](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/main/issues/733/src/index.ts#L22)
 
 B value
 
@@ -42,7 +42,7 @@ B value
 
 > `optional` **c**: `Record`\<`string`, \{ `description`: `string`; `name`: `string`; \}\>
 
-Defined in: [issues/733/src/index.ts:26](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/48b5b9ad70e31a4945755ce259ea933839e4cb5c/issues/733/src/index.ts#L26)
+Defined in: [issues/733/src/index.ts:26](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/main/issues/733/src/index.ts#L26)
 
 C value
 
@@ -56,7 +56,7 @@ C value
 
 > **d**: \{ `description`: `string`; `name`: `string`; \} = `infoSchema`
 
-Defined in: [issues/733/src/index.ts:30](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/48b5b9ad70e31a4945755ce259ea933839e4cb5c/issues/733/src/index.ts#L30)
+Defined in: [issues/733/src/index.ts:30](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/main/issues/733/src/index.ts#L30)
 
 D value
 

@@ -2,7 +2,7 @@
 
 # Interface: Info
 
-Defined in: [issues/733/src/index.ts:33](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/48b5b9ad70e31a4945755ce259ea933839e4cb5c/issues/733/src/index.ts#L33)
+Defined in: [issues/733/src/index.ts:33](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/main/issues/733/src/index.ts#L33)
 
 ## Extends
 
@@ -14,7 +14,7 @@ Defined in: [issues/733/src/index.ts:33](https://github.com/typedoc2md/typedoc-p
 
 > `optional` **description**: `string`
 
-Defined in: [issues/733/src/index.ts:11](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/48b5b9ad70e31a4945755ce259ea933839e4cb5c/issues/733/src/index.ts#L11)
+Defined in: [issues/733/src/index.ts:11](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/main/issues/733/src/index.ts#L11)
 
 The description
 
@@ -28,7 +28,7 @@ The description
 
 > `optional` **name**: `string`
 
-Defined in: [issues/733/src/index.ts:7](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/48b5b9ad70e31a4945755ce259ea933839e4cb5c/issues/733/src/index.ts#L7)
+Defined in: [issues/733/src/index.ts:7](https://github.com/typedoc2md/typedoc-plugin-markdown-scratchpad/blob/main/issues/733/src/index.ts#L7)
 
 The name
 

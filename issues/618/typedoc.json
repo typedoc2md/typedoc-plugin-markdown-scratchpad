@@ -3,5 +3,6 @@
   "plugin": ["typedoc-plugin-markdown"],
   "readme": "none",
   "hidePageHeader": true,
-  "indexFormat": "htmlTable"
+  "indexFormat": "htmlTable",
+  "gitRevision": "main"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "issue-742",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "docs": "typedoc"
+  },
+  "devDependencies": {
+    "remark-toc": "^9.0.0"
+  }
+}
