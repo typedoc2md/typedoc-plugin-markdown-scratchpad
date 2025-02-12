@@ -1,0 +1,12 @@
+{
+  "entryPoints": ["src/index.ts"],
+  "plugin": ["typedoc-plugin-markdown", "./custom-theme.mjs"],
+  "theme": "customTheme",
+  "readme": "none",
+  "cleanOutputDir": true,
+  "gitRevision": "main",
+  "hidePageHeader": true,
+  "hideBreadcrumbs": true,
+  "hidePageTitle": true,
+  "disableSources": true
+}
